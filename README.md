@@ -8,8 +8,7 @@
   <img src="" width="50"/>
                      
   <img src="https://i.imgur.com/noLEJnx.png" height="700" width="300"/>
-  <img src="" width="50"/>
-  <img src="https://i.imgur.com/Ddc4g4X.png" height="700" width="300"/>
+ 
   <img src="" width="50"/>
                         
   <img src="https://i.imgur.com/2wi2Pms.png" height="700" width="300"/>
